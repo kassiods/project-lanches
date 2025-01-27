@@ -64,11 +64,11 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ### **Passos para Rodar**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/kassiodias/delicias-da-suely.git
+   git clone https://github.com/kassiods/project-lanches.git
    ```
 2. Instale as dependências:
    ```bash
-   cd delicias-da-suely
+   cd project-lanches
    npm install
    ```
 3. Inicie o servidor de desenvolvimento:
