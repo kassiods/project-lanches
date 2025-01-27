@@ -18,6 +18,8 @@ export function Banner() {
                     className="w-full h-36 rounded-2xl"/>
                 </Pressable>
 
+
+
             </PagerView>
         </View>
     );
