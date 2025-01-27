@@ -64,7 +64,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ### **Passos para Rodar**
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/delicias-da-suely.git
+   git clone https://github.com/kassiodias/delicias-da-suely.git
    ```
 2. Instale as dependências:
    ```bash
